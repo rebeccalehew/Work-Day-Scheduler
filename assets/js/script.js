@@ -1,5 +1,5 @@
 // Globally declared variables
-const now = dayjs().format("MMMM D, YYYY"); // Retrieves current time & applies format
+const now = dayjs().format("dddd MMMM D, YYYY"); // Retrieves current time & applies format
 const currentTime = dayjs().hour(); // Retrieves current number of hours
 
 // Display today's day and date in the header of the page
