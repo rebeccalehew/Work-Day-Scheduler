@@ -1,7 +1,10 @@
 # Work Day Scheduler
-deployed link:
-video demo:
+deployed link: https://rebeccalehew.github.io/work-day-scheduler/
 
+video demo: https://drive.google.com/file/d/1GBKzzAgL83MeG2nlLlR2S_IFq-Ai1AmL/view
+
+
+![screenshot](./assets/images/Screen%20Shot%202023-03-01%20at%2011.19.16%20AM.png)
 
 ## Description
 The Work Day Scheduler allows a user to save events for each hour of a typical business day. It runs in the browser and features dynamically updated HTML and CSS powered by jQuery.
@@ -42,3 +45,12 @@ The Work Day Scheduler allows a user to save events for each hour of a typical b
 - Automatically clear local storage at the end of the day so each day starts with a clean schedule
 - Expand to a work week scheduler, showing Monday-Friday
 - Allow user input events to be emailed and/or pushed to mobile device calendars
+
+
+## Collaboration
+- Email: lehew316@gmail.com
+- GitHub: https://github.com/rebeccalehew
+
+
+## License
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
